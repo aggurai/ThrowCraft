@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ThrowCraft",
+  "name": "ThrowCraft Reloaded",
+  "description": "ThrowCraft - The power is in your hands!\nThe epic 1.0/1.1 mod that gave people the unique ability to cause chaos with eggs and bombs has finally been updated...\nand its time to wreck some havoc!",
+  "version": "1.0",
+  "mcversion": "1.5.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+    "Aggurai"
+  ],
+  "credits": "Made by Aggurai",
+  "logoFile": "/throwcraft_logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
